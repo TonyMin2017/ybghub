@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ybghub:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ybghub.war">
+      <element id="artifact" artifact-name="ybghub:war exploded" />
+    </root>
+  </artifact>
+</component>
