@@ -8,7 +8,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="D:\all-prjs-min\ybghub\target/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/ybghub/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ybghub/web/Web" />
     </root>
